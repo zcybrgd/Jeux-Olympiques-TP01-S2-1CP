@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650062078 source:e:\alsdd\tdalsdd\boukhetala_bouyahiaoui_tp1_g9\bouyahiaoui_boukhetala_tp1_g9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+

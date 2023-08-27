@@ -1,0 +1,200 @@
+aviron Deux de couple femme	
+aviron Deux de couple poids legers homme	
+aviron Deux sans barreur femme	
+aviron Deux sans barreur homme	
+aviron Huit femme
+aviron Huit homme	
+aviron Quatre de couplehomme
+aviron Quatre de couplefemme
+aviron Quatre sans barreur femme	
+aviron Quatre sans barreur homme	
+aviron Skiff femme	
+aviron Skiff homme	
+Badminton
+Baseball
+Softball	
+Basketball	
+Basketball 3x3	
+Beach-volley	
+BMX Freestyle	
+BMX Racing	
+boxe Poids legers femme	
+boxe Poids legers homme	
+boxe Poids lourds homme	
+boxe Poids mi-lourds homme	
+boxe Poids mouches femme	
+boxe Poids mouches homme	
+boxe Poids moyens femme	
+boxe Poids moyens homme	
+boxe Poids plumes femme	
+boxe Poids plumes homme	
+boxe Poids super-lourds homme	
+boxe Poids welters femme	
+boxe Poids welters homme	
+Canoe-Kayak - slalom	
+Canoe-Kayak - sprint	
+course10000m femme	
+course10000m homme	
+course100m femme	
+course100m homme	
+course110m haies femme	
+course110m haies homme	
+course1500m femme	
+course1500m homme	
+course200m femme	
+course200m homme	
+course3000m steeple femme	
+course3000m steeple homme	
+course400m femme	
+course400m haies femme	
+course400m haies homme	
+course400m homme	
+course5000m femme	
+course5000m homme	
+course800m femme	
+course800m homme	
+cyclisme Americaine femme	
+cyclisme Americaine homme	
+cyclisme Keirin femme	
+cyclisme Keirin homme	
+cyclisme Omnium femme	
+cyclisme Omnium homme	
+cyclisme Poursuite par equipes femme	
+cyclisme Poursuite par equipes homme	
+cyclisme Vitesse individuelle femme	
+cyclisme Vitesse individuelle homme	
+cyclisme Vitesse par equipes femme	
+cyclisme Vitesse par equipes homme	
+Equitation:saut d obstacles femme	
+Equitation:saut d obstacles homme	
+Equitation:saut Dressage femme	
+Equitation:saut Dressage homme	
+Equitation:saut en granduer femme	
+Equitation:saut en granduer homme	
+Equitation:saut en hauteur  homme	
+Equitation:saut en hauteur femme	
+Escalade	
+Escrime Epee femme	
+Escrime Epee homme	
+Escrime Epee Individuel femme	
+Escrime Epee Individuel homme	
+Escrime Epee par equipes femme	
+Escrime Epee par equipes homme	
+Escrime Fleuret individuel femme 	
+Escrime Fleuret individuel homme	
+Escrime Fleuret par equipes femme	
+Escrime Fleuret par equipes homme	
+Escrime Sabre femme	
+Escrime Sabre homme		
+Football	
+Golf	
+Gymnastique artistique	
+Gymnastique rythmique	
+Halterophilie	
+Handball	
+Hockey	
+Judo:+100 kg homme	
+Judo:+78 kg femme	
+Judo:-100 kg homme	
+Judo:-48 kg femme	
+Judo:-52 kg femme	
+Judo:-57 kg femme	
+Judo:-60 kg homme	
+Judo:-63 kg femme	
+Judo:-66 kg homme	
+Judo:-70 kg femme	
+Judo:-73 kg homme	
+Judo:-78 kg femme	
+Judo:-81 kg homme	
+Judo:-90 kg homme	
+Karate:Poids legers femme	
+Karate:Poids legers homme	
+Karate:Poids lourds femme	
+Karate:Poids lourds homme	
+Karate:Poids moyens femme	
+Karate:Poids moyens homme	
+la lutte -125 kg homme	
+la lutte -50 kg femme	
+la lutte -53 kg femme	
+la lutte -57 kg femme	
+la lutte -57 kg homme	
+la lutte -62 kg femme	
+la lutte -65 kg homme	
+la lutte -68 kg femme	
+la lutte -74 kg homme	
+la lutte -76 kg femme	
+la lutte -86 kg homme	
+la lutte -97 kg homme	
+lancer javelot femme	
+lancer javelot homme	
+lancer marteau femme	
+lancer marteau homme	
+lancers disque femme	
+lancers disque homme	
+lancers poids femme	
+lancers poids homme	
+MARATHON femme	
+MARATHON homme	
+marche20km femme	
+marche20km homme	
+marche50km femme	
+marche50km homme	
+natation Relais  4x100m nage libre femme	
+natation Relais  4x100m nage libre homme	
+natation Relais  4x100m quatre nages femme 	
+natation Relais 4x200m nage libre homme	
+natation Relais  mixte 4x100m quatre nages	
+natation 1 500m  nage libre femme 	
+natation 1 500m  nage libre homme	
+natation 100m  brasse femme 	
+natation 100m  brasse homme	
+natation 100m dos femme 	
+natation 100m dos homme	
+natation 100m nage libre femme 	
+natation 100m nage libre homme	
+natation 100m papillon femme 	
+natation 100m papillon homme	
+natation 200m brasse  femme
+natation 200m dos  homme	
+natation 200m nage libre femme 	
+natation 200m nage libre homme	
+natation 200m papillon femme 	
+natation 200m papillon homme	
+natation 200m quatre nages individuel femme 	
+natation 200m quatre nages individuel homme	
+natation 400m nage libre femme 	
+natation 400m nage libre homme	
+natation 400m quatre nages individuel femme 	
+natation 400m quatre nages individuel homme	
+natation 50m nage libre femme 	
+natation 50m nage libre homme	
+natation 800m nage libre femme 	
+natation 800m nage libre homme	
+Pentathlon moderne	
+Plongeon	
+Rugby a sept	
+saut en hauteur femme	
+saut en hauteur homme	
+saut en longueur femme	
+saut en longueur homme	
+saut en perche femme	
+saut en perche homme	
+Skateboard	
+Surf	
+Taekwondo:Poids legers femme	
+Taekwondo:Poids legers homme	
+Taekwondo:Poids lourds femme	
+Taekwondo:Poids lourds homme	
+Taekwondo:Poids mouches femme		
+Taekwondo:Poids moyens homme	
+Tennis	
+Tennis de table	
+Tir a l'arc	
+Trampoline	
+Triathlon	
+triple saut femme	
+triple saut homme	
+Voile	
+Volleyball	
+VTT	
+Water-polo	
